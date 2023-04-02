@@ -1,0 +1,1 @@
+web: gunicorn invest_me.wsgi
